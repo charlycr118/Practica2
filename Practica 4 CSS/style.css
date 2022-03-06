@@ -1,0 +1,53 @@
+body {
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+    margin: 0px;
+    background-color: black;
+}
+
+main {
+    position: static;
+    top: 150px;
+}
+
+article {
+    margin: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: blueviolet;
+    color: white;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: white;
+}
+
+#caja1 {
+    color: white;
+    margin: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+}
+
+#caja2 {
+    color: white;
+    margin: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: purple;
+}
+
+#caja3 {
+    color: white;
+    margin: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: palevioletred;
+}
